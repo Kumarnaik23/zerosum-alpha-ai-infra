@@ -1,0 +1,146 @@
+{
+  "generated": "2026-06-01",
+  "regime": "Risk-on",
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "subsector": "AI Silicon",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of AI Silicon."
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "subsector": "AI Silicon",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of AI Silicon."
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "subsector": "AI Silicon",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of AI Silicon."
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "subsector": "AI Silicon",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of AI Silicon."
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "subsector": "AI Semiconductor Equipment",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of AI Semiconductor Equipment."
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "subsector": "Memory & Storage",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of Memory & Storage."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "subsector": "Thermal & Power Management",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of Thermal & Power Management."
+    },
+    {
+      "ticker": "SMCI",
+      "name": "Super Micro Computer",
+      "subsector": "AI Server Systems",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of AI Server Systems."
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum Holdings",
+      "subsector": "Optical Connectivity",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of Optical Connectivity."
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "subsector": "Specialized AI Cloud",
+      "tier": 3,
+      "score": 45,
+      "score_components": {
+        "growth_metric": 0,
+        "sentiment_metric": 45
+      },
+      "rev_growth_pct": 0.0,
+      "risk_flags": "None",
+      "thesis": "Tracking momentum and demand profile inside the execution layer of Specialized AI Cloud."
+    }
+  ]
+}
